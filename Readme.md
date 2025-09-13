@@ -1,4 +1,3 @@
-```
 # Student Database App (Java + MySQL JDBC)
 
 A simple **console-based Java application** that manages student information using **MySQL** and **JDBC**.  
@@ -113,6 +112,4 @@ Enrollment Year: 2023
 
 Developed by **W\.Chamindu Lakshan**
 University of Colombo
-
-```
 
