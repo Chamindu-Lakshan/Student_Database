@@ -63,7 +63,7 @@ String url = "jdbc:mysql://localhost:3306/studentdb";
 String user = "root";
 String password = ""; // leave blank if no password set in XAMPP
 ```
-
+Run the TestDB.java file to see if the database is connected sucssesfuly .
 ---
 
 ### 5. Run the Application
