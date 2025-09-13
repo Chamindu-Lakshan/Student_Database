@@ -64,8 +64,6 @@ String user = "root";
 String password = ""; // leave blank if no password set in XAMPP
 ```
 
-> ⚠️ If you set a MySQL root password in XAMPP, update `password` in code.
-
 ---
 
 ### 5. Run the Application
